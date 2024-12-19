@@ -1,0 +1,27 @@
+UAE-Ticket---F2A2_UAE
+
+UAE -F2A2--Mswipe_Live_UAE
+
+
+Ticket--DatabaseName~+LTEFeQ2rtnXBykRPAZoNg==
+Master--DatabaseName~OU7nGH4pt2HLhz8mNzzcIA==
+Rupay--	DatabaseName~OU7nGH4pt2HLhz8mNzzcIA==
+InfoService--DatabaseName~g3Y1YKwnWEOosDq9oeejbuzYBR8Nn5wsAFaJpCcUh6w=
+Inmemmory--DatabaseName~OU7nGH4pt2HLhz8mNzzcIA==
+Amex--DatabaseName~OU7nGH4pt2HLhz8mNzzcIA==
+
+
++LTEFeQ2rtnXBykRPAZoNg==   :-----F2A2_UAE
+OU7nGH4pt2HLhz8mNzzcIA==   :-----Mswipe_Live_UAE
+
+
+g3Y1YKwnWEOosDq9oeejbuzYBR8Nn5wsAFaJpCcUh6w= ----Labs_Infoservices_UAE
+
+
+
+Rupay----Mswipe_Live_UAE
+Amex-----Mswipe_Live_UAE
+Inmemory--Mswipe_Live_UAE
+Master---Mswipe_Live_UAE
+Ticket---F2A2_UAE
+InfoService---Labs_Infoservices_UAE
